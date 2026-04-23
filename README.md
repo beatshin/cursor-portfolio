@@ -13,6 +13,8 @@ Steps Completed
 - Installed Claude and Codex extensions
 - Logged into both
 - Created the GitHub Repository
+- Installed Git
+- Installed GitHub Desktop
 - Opened the repository on Cursor
 - Created this README.md
 - Commit and push this README.md to GitHub
