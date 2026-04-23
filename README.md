@@ -1,5 +1,30 @@
 # cursor-portfolio
 Personal Portfolio Project
+
+Tools Installed
+- Cursor IDE
+- Claude Code Extension
+- Codex
+- Git
+- GitHub Desktop
+
+Steps Completed
+Installed Cursor IDE
+Installed Claude and Codex extensions
+Logged into both
+Created the GitHub Repository
+Opened the repository on Cursor
+Created this README.md
+Commit and push this README.md to GitHub
+
+Issues Faced
+Confused on how to open the github repository on Cursor, so I searched on YouTube on how to do it
+Followed the steps, turns out cursor said that Git is missing
+Confused on which default editor is best for Git, so I end up googling which default editor is the most beginner friendly for Git
+I didn't know how to commit and push to GitHub from Cursor so I asked Cursor on how to commit and push this modified readme.md to GitHub.
+
+(Below is the more detailed breakdown of what happened)
+
 Okay so I suppose this is where I'm supposed to describe that I did.
 I've installed Claude Code and Codex as per instruction.
 The steps I've took was, after opening the email, I promptly install Cursor IDE, registered an account, opened cursor, found the extension tab (View > Extensions) and I added Claude Code first, and afterwards Codex - Open AI's coding.
@@ -14,6 +39,9 @@ This usually means Cursor’s terminal needs a restart to pick up the new PATH a
 Please do one of these, then I’ll clone immediately: 
 Restart Cursor, or Open a new terminal in Cursor and run git --version once."
 I tried the first option, simply restarted Cursor, and then I entered the line "okay i've restarted cursor" in which cursor tries to verify it again, which ended up working.
+
+Lastly I didn't know how to commit and push the edited README.md to GitHub from Cursor, so i ended up asking Cursor instead on how to do it, and cursor gave me a few commands to run in order, and asked whether i want it to run the commands for me instead, in which i replied with "run it for me" and it did. After a while this came back "Done — I ran it end-to-end and your change is now on GitHub."
+
 And that's it.
 
 Thanks for reading.
