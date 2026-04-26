@@ -59,3 +59,36 @@ Saw how it was formatted on my GitHub profile, didn't like it, now I'm trying to
 And that's it.
 
 Thanks for reading.
+
+## What I Collected
+
+For this project, I selected 10 practitioners who actively use LinkedIn to grow B2B SaaS audiences and generate demand.
+
+I collected:
+- 3 LinkedIn posts per expert (in `/research/linkedin-posts/`) to analyze hooks, structure, tone, and engagement patterns  
+- YouTube transcripts and notes (in `/research/youtube-transcripts/` and `/research/other/`) to capture deeper frameworks and strategic thinking  
+
+The goal was not to collect a large volume of content, but to gather enough high-quality examples to identify repeatable patterns.
+
+---
+
+## Why I Chose These Experts
+
+These experts were selected because they represent different parts of how LinkedIn organic content actually works in B2B SaaS:
+
+- **Content creation & personal branding**  
+  People like **Justin Welsh**, **Lara Acosta**, and **Pierre Herubel** focus on how to write effective posts, build an audience, and stay consistent.
+
+- **B2B SaaS growth & demand generation**  
+  **Kyle Poyar**, **Chris Walker**, and **Dave Gerhardt** provide context on how content connects to pipeline, brand, and category positioning.
+
+- **Conversion and execution**  
+  **Devin Reed** and **Mandy McEwen** focus more on turning attention into leads, conversations, and revenue.
+
+- **Broader marketing perspective**  
+  **Rand Fishkin** helps explain how distribution, audience targeting, and platform behavior affect content performance.
+
+- **Messaging and clarity**  
+  **Alex Hormozi** was included to understand how strong positioning and clear value propositions improve content effectiveness.
+
+Overall, this mix allowed me to look at LinkedIn content from multiple angles: writing, positioning, distribution, and conversion.
